@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>고려의 대외 관계</title>
+    <style>
+        body {
+            font-family: 'Noto Sans KR', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            line-height: 1.6;
+        }
+
+
+        h1 {
+            font-size: 2.5em;
+            color: #2c3e50;
+            text-align: center;
+            border-bottom: 3px solid #565e80;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+        }
+
+
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .section {
+            margin-bottom: 40px;
+        }
+
+        .section h2 {
+            font-size: 2em;
+            color: #34495e;
+            margin-bottom: 20px;
+        }
+
+        .section p {
+            font-size: 1.2em;
+            color: #7f8c8d;
+        }
+
+        .section p strong {
+            color: #2c3e50;
+        }
+
+        .important {
+            font-weight: bold;
+            color: #e74c3c;
+        }
+        
+        .map-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="content">
+        <h1>고려의 대외 관계</h1>
+
+        <div class="section">
+            <h2>당시 상황</h2>
+            <p><strong>만주</strong>: 거란 세력 확장, 발해 멸망 후 거란이 만주 일대에서 세력을 넓혔습니다.</p>
+            <p><strong>중국</strong>: 5대 10국의 혼란 속에서 송나라가 통일을 이루고 세력을 확장했습니다.</p>
+            <p><strong>고려</strong>: 북진 정책을 펼쳐 거란을 견제하고 송나라와 친밀한 관계를 유지했습니다.</p>
+            <p><strong>송</strong>: 송나라는 고려와 친밀한 외교 관계를 통해 거란을 견제하려 했습니다.</p>
+        </div>
+
+        <div class="section">
+            <h2>고려와 거란의 관계</h2>
+            <p>거란은 고려를 공격하며, <span class="important">1차, 2차, 3차 침입</span>을 감행했습니다. <br><br>
+<strong><u>1차 침입</u></strong><br>
+<strong>원인</strong> : 고려가 친송 정책을 펼치자, 몽골은 견제를 위해 고려부터 공격했습니다.<br>
+<strong>과정</strong> : 일부 대신들의 친몽골정책 주장을 무시하고, 서희가 소손녕과의 담판에서 거래를 대가로 강동 6주를 받았습니다.<br>
+<strong>결과</strong> : 고려의 영토는 압록강까지 넓어졌고, 1차 침입을 막아냈습니다.<br><br>
+하지만 고려는 거란의 침입을 성공적으로 막아냈습니다. 대표적인 사건으로는 <strong>강감찬의 귀주대첩</strong>이 있습니다. 이 승리로 고려는 거란의 위협에서 벗어날 수 있었습니다.</p>
+        </div>
+
+        <div class="section map-container">
+            <h2>고려의 대외 관계 지도</h2>
+            <img src="http://dic.kumsung.co.kr/upfiles/editor/201504/tg3h3uegevbe7ulgg1at94o9oj.png" alt="고려의 대외 관계 지도">
+        </div>
+
+        <div class="section">
+            <h2>고려와 송나라의 관계</h2>
+            <p>고려와 송나라는 서로 우호적인 외교 관계를 유지했습니다. 송나라는 고려를 통해 거란을 견제하려 했고, 고려는 송나라와의 무역을 통해 경제적 이익을 얻었습니다.</p>
+        </div>
+    </div>
+
+</body>
+</html>
